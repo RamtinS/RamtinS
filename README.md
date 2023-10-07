@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Ramtin Samavat! 👋
 
-<!--
-**RamtinS/RamtinS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 Software Engineer | 🚀 Open Source Enthusiast
 
-Here are some ideas to get you started:
+I'm a passionate software engineering student with a strong interest in backend development and databases.
+Welcome to my GitHub profile, where I share my journey in the world of technology and software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I'm currently learning **Operating Systems**, **Databases**, **Algorithms and Data Structures**, and **Statistics**.
+🔭 Studying Bachelor of Engineering in Computer Science at NTNU Trondheim.
+📫 How to reach me: ramtinsamavat@yahoo.com.
+
+## 🔧 Skills & Technologies
+
