@@ -13,7 +13,7 @@ Welcome to my GitHub profile, where I share my journey in the world of technolog
 - **Languages**: Java, Python
 - **Database**: SQL (MySQL)
 - **Testing**: JUnit
-- **Development Tools**: IntelliJ IDEA, Git, VS Code
+- **Development Tools**: IntelliJ IDEA, Git, VS Code, Maven
 
 
 Thank you for visiting my profile! 😊
