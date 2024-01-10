@@ -5,15 +5,16 @@
 I'm a passionate software engineering student with a strong interest in backend development and databases.
 Welcome to my GitHub profile, where I share my journey in the world of technology and software development.
 
-* 🌱 I'm currently learning **Operating Systems**, **Databases**, **Algorithms and Data Structures**, and **Statistics**.
+* 🌱 I'm currently learning **Network Programming**, **Full-stack development**, **Software Engineering 2 with Agile project**, and **Physics**.
 * 🔭 Studying Bachelor of Engineering in Computer Science at NTNU Trondheim.
 * 📫 How to reach me: ramtinsamavat@yahoo.com.
 
 ## 🔧 Skills & Technologies
-- **Languages**: Java, Python
-- **Database**: SQL (MySQL)
-- **Testing**: JUnit
-- **Development Tools**: Git, Maven
+- **Programming Languages**: Java, Python, JavaScript
+- **Markup and Styling Languages**: HTML, CSS
+- **Database Management**: SQL (MySQL)
+- **Testing Frameworks**: JUnit
+- **Development Tools**: Git
 - **Data Formats**: JSON
 
 
