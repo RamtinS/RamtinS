@@ -13,7 +13,7 @@ Welcome to my GitHub profile, where I share my journey in the world of technolog
 - **Programming Languages**: Java, Python, JavaScript
 - **Markup and Styling Languages**: HTML, CSS
 - **Database Management**: SQL (MySQL)
-- **Testing Frameworks**: JUnit
+- **Testing Frameworks**: JUnit, Cypress
 - **Development Tools**: Git
 - **Data Formats**: JSON
 
