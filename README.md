@@ -11,6 +11,7 @@ Welcome to my GitHub profile, where I share my journey in the world of technolog
 
 ## 🔧 Skills & Technologies
 - **Programming Languages**: Java, Python, JavaScript
+- **Framework & Libraries**: Spring Boot
 - **Markup and Styling Languages**: HTML, CSS
 - **Database Management**: SQL (MySQL)
 - **Testing Frameworks**: JUnit, Cypress
