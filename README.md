@@ -5,7 +5,7 @@
 I'm a passionate software engineering student with a strong interest in backend development and databases.
 Welcome to my GitHub profile, where I share my journey in the world of technology and software development.
 
-* 🌱 I'm currently learning **Network Programming**, **Full-stack development**, **Software Engineering with Agile project**, and **Physics**.
+* 🌱 I'm currently learning **Network Programming**, **Full-stack development**, and **Software Engineering with Agile project**.
 * 🔭 Studying Bachelor of Engineering in Computer Science at NTNU Trondheim.
 * 📫 How to reach me: ramtinsamavat@yahoo.com.
 
