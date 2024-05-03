@@ -10,7 +10,7 @@ Welcome to my GitHub profile, where I share my journey in the world of technolog
 * 📫 How to reach me: ramtinsamavat@yahoo.com.
 
 ## 🔧 Skills & Technologies
-- **Programming Languages**: Java, Python, JavaScript
+- **Programming Languages**: Java, Python, JavaScript, TypeScript
 - **Framework & Libraries**: Spring Boot, Vue.js
 - **Markup and Styling Languages**: HTML, CSS
 - **Database Management**: SQL (MySQL)
