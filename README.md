@@ -7,7 +7,7 @@ Welcome to my GitHub profile, where I share my journey in the world of technolog
 
 * 🌱 I'm currently learning **Network Programming**, **Full-stack development**, and **Software Engineering with Agile project**.
 * 🔭 Studying Bachelor of Engineering in Computer Science at NTNU Trondheim.
-* 📫 How to reach me: ramtinsamavat@yahoo.com.
+* 📫 How to reach me: ramtinsamavat@gmail.com.
 
 ## 🔧 Skills & Technologies
 - **Programming Languages**: Java, Python, JavaScript, TypeScript
