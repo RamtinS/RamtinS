@@ -11,6 +11,7 @@ Welcome to my GitHub profile, where I share my journey in the world of technolog
 
 ## 🔧 Skills & Technologies
 - **Programming Languages**: Java, Python, JavaScript, TypeScript
+- **Hardware description language**: Verilog
 - **Framework & Libraries**: Spring Boot, Vue.js
 - **Markup and Styling Languages**: HTML, CSS
 - **Database Management**: SQL (MySQL)
