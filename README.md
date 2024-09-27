@@ -10,7 +10,7 @@ Welcome to my GitHub profile, where I share my journey in the world of technolog
 * 📫 How to reach me: ramtinsamavat@gmail.com.
 
 ## 🔧 Skills & Technologies
-- **Programming Languages**: Java, Python, JavaScript, TypeScript
+- **Programming Languages**: Java, Python, TypeScript, Kotlin
 - **Hardware description language**: Verilog
 - **Framework & Libraries**: Spring Boot, Vue.js
 - **Markup and Styling Languages**: HTML, CSS
