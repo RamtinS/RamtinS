@@ -5,7 +5,7 @@
 I'm a passionate software engineering student with a strong interest in backend development and databases.
 Welcome to my GitHub profile, where I share my journey in the world of technology and software development.
 
-* 🔭 Studying Bachelor of Engineering in Computer Science at NTNU Trondheim.
+* 🔭 Studying master's in Computer Science at NTNU Trondheim.
 
 ## 🔧 Skills & Technologies
 - **Programming Languages**: Java, Python, TypeScript, Kotlin
