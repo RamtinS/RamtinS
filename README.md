@@ -12,10 +12,10 @@ Welcome to my GitHub profile, where I share my journey in the world of technolog
 - **Hardware description language**: Verilog
 - **Framework & Libraries**: Spring Boot, Vue.js, React, React native
 - **Markup and Styling Languages**: HTML, CSS
+- **Testing Frameworks**: JUnit, Cypress, Mockito, MockK
+- **Development Tools**: Git, Jenkins, Docker
 - **Database Management**: SQL (MySQL)
-- **Testing Frameworks**: JUnit, Cypress, Mockito
-- **Development Tools**: Git, Jenkins
+- **APIs & Protocols**: REST, SOAP
 - **Data Formats**: JSON
-
 
 Thank you for visiting my profile! 😊
